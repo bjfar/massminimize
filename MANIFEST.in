@@ -1,0 +1,4 @@
+global-exclude *.git *.gitignore
+include README.md LICENSE CHANGES.txt
+graft tools
+graft tests
